@@ -1,4 +1,6 @@
 hi, i am kandhan
+<<<<<<< HEAD
 i am a dv engineer
 i love vlsi
 note
+i am an employee from edveon
